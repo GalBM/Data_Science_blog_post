@@ -13,4 +13,8 @@ files :
 Summary 
 	in the follow analyzing i find out the most profit neighborhood,
  	correlations between different parameters,
- 	and I build ML model which predicts the price of the apartment renting 
+ 	and I build ML model which predicts the price of the apartment renting
+
+
+Blog post link:
+https://medium.com/@galbenmaman.94/renting-price-on-seattle-5ef0c75a7110
