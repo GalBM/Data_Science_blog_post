@@ -18,3 +18,6 @@ Summary
 
 Blog post link:
 https://medium.com/@galbenmaman.94/renting-price-on-seattle-5ef0c75a7110
+
+github link:
+https://github.com/GalBM/Data_Science_blog_post
